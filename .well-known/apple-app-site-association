@@ -1,0 +1,23 @@
+{
+    "applinks": {
+        "apps": [],
+        "details": [
+            {
+                "appID": "XW29743883.com.workoutsocial.app",
+                "paths": [
+                    "/verify-email",
+                    "/verify-email/*",
+                    "/verify-email?*",
+                    "/reset-password",
+                    "/reset-password/*",
+                    "/reset-password?*"
+                ]
+            }
+        ]
+    },
+    "webcredentials": {
+        "apps": [
+            "XW29743883.com.workoutsocial.app"
+        ]
+    }
+}
