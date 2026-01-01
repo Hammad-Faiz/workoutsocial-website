@@ -1,13 +1,2 @@
 include:
   - .well-known
-```
-
-5. Commit the file
-
----
-
-## After Adding:
-
-Wait 1-2 minutes for GitHub Pages to rebuild, then test again:
-```
-https://workoutsocial.app/.well-known/apple-app-site-association
